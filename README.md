@@ -29,7 +29,6 @@ Troubleshooting Steps:
 
 ## How to Run
 
-```bash
 pip install openai python-dotenv
 python app.py
 
