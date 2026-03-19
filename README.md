@@ -33,6 +33,10 @@ Troubleshooting Steps:
 pip install openai python-dotenv
 python app.py
 
+## Screenshot
+
+![App Screenshot](afterRunningTicketProject.png)
+
 ## Author
 Jamie Crable
 IT Support & Software Development Student
